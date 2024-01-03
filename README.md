@@ -1,6 +1,6 @@
 ### Hi, I'm yang ming
 
-my interest in autonomous driving, robotics.
+my interest is autonomous driving, robotics.
 
 ### my states
 
